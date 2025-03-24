@@ -311,3 +311,9 @@ CageHome3D:
   description: "A 3D printer that folds flush to enable efficient storage"
   repository: "https://raw.githubusercontent.com/chunyinkwong/infill-journal/refs/heads/main/README.md"
   file_name: CageHome3D.md
+
+Material:
+   title: "Material"
+   description: "A 3D printer with magnetic swappable printheads, which can print using plastic from bottles, and with WiFi"
+   repository: "https://raw.githubusercontent.com/aryn-pathak/material-zero/blob/main/JOURNAL.md"
+   
